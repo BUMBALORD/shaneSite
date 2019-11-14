@@ -146,8 +146,8 @@ function App() {
           <Image src={twelve} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={thirteen} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={fourteen} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
-          <Image src={eight} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={nine} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
+          <Image src={eight} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={ten} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={fifteen} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
         </Container>
