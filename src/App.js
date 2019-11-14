@@ -17,7 +17,6 @@ import three from './pics/3.jpg'
 import four from './pics/4.jpg'
 import five from './pics/5.jpg'
 import six from './pics/6.jpg'
-import seven from './pics/7.jpg'
 import eight from './pics/8.jpg'
 import nine from './pics/9.jpg'
 import ten from './pics/10.jpg'
@@ -141,10 +140,9 @@ function App() {
           <Image src={one} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={two} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={three} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
-          <Image src={four} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={five} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
+          <Image src={four} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={six} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
-          <Image src={seven} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={twelve} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={thirteen} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
           <Image src={fourteen} aspectRatio="(5/3)" className={classes.spacing} style={{backgroundColor: 'black'}} />
